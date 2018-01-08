@@ -1,3 +1,4 @@
+// A Simple web server with no dependencies, using all native golang libraries
 package main
 
 import (
